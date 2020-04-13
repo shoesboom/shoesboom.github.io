@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url("png/belyj-kirpich.jpg");
+}
+#header { 
+    width: 100%; 
+    height: 80px;
+    opacity: 0.8;
+    background: #3B2F2F;
+}
+#headerdiv {
+    float: left;
+    width: 171px;
+    height: 60px;
+    cursor: pointer;
+    background: black;
+    text-decoration: none;
+}
+.logo {
+    width: 200px;
+    float: left;
+    height: 70px;
+    font-size: 2%;
+}
+.logo a {
+    display: block;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-family:  "Exo2-Medium", sans-serif;
+    font-size: x-large;
+    color: #b2aeb2;
+    text-decoration: none;
+    cursor: pointer;
+}
+.Shoes {
+    color: #aa064b;
+    
+}
+.boom {
+    color: #429595; 
+}
+.logo p {
+    margin-left: 2px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    font-family:  "Exo2-Medium", sans-serif;
+    font-size: 13px;
+    color: white;
+}
+.top-menu {
+    width: 1000px;
+    height: 80px;
+    float: left;
+}
+.top-menu ul li {
+    display: block;
+    list-style: none;
+    float: left;
+    text-align: center;
+}
+.a {
+    display: table;
+    width: 171px;
+    text-decoration: none;
+    font-family:  "Exo2-Medium", sans-serif;
+    font-size: 17px;
+    color: #fff;
+    height: 55px;
+    padding-top: 25px;
+    cursor: pointer;
+}
